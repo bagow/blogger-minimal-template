@@ -10,3 +10,5 @@ This is a minimal template for blogger.com; it works out of the box because it's
 create your own template for blogger.com.
 
 Why? Because even the simple template is very messy. I used this to build my own blogger.com template.
+
+In the template you will find "b:skin"; just place your css between this tag. That's it.
